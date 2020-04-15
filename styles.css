@@ -1,0 +1,56 @@
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+.row-content{
+    margin: 0px auto;
+    padding: 0px auto;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+footer {
+    background-color: hsl(89, 43%, 51%);
+    margin: 0px auto;
+    padding: 30px 10px 30px 10px;
+}
+.jumbotron {
+    padding: 75px 35px 80px 35px;
+    margin: 0px auto;
+    color: floralwhite;
+    background-color: rgb(50, 0, 50);
+    padding: 8px;
+}
+.address{
+    font-size: 70%;
+    margin: 0px;
+    color: rgb(12, 14, 87);
+}
+body{
+    background-image: Desktop/back.jpg;
+}
+#im{
+    height: 42%;
+    width: 20%;
+    margin-left: 264px;
+    opacity: 0.5;
+}
+#im:hover{
+    display: inline;
+    width: 25%;
+    height: auto;
+    opacity: 1;
+}
+
+
+.carousalimg{
+    border-radius: 10px;
+    border-color: rgb(158, 248, 20);
+    box-sizing: border-box;
+    box-shadow: 5px 10px;
+}
+.h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#car{
+    height: 80%;
+}
